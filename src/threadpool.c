@@ -1,5 +1,5 @@
-#include <threadpool.h>
 #include <stdio.h>
+#include <inc/threadpool.h>
 
 void threadpool_init(threadpool_t* pool)
 {
